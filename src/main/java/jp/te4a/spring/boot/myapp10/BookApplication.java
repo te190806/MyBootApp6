@@ -1,9 +1,9 @@
-package jp.te4a.spring.boot.myapp9;
+package jp.te4a.spring.boot.myapp10;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-import jp.te4a.spring.boot.myapp9.BookApplication;
+import jp.te4a.spring.boot.myapp10.BookApplication;
 
 @SpringBootApplication
 public class BookApplication {
